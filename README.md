@@ -3,6 +3,12 @@
 
 Implementation of Tic-Tac-Toe using the Minimax algorithm with alpha-beta pruning.
 
+## **How to play**
+
+● pip3 install -r requirements.txt
+
+● python3 runner.py
+
 ![Tic-Tac-Toe Game](resources/tictactoe_pic.png)
 
 
