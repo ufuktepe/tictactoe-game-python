@@ -3,7 +3,7 @@
 
 Implementation of Tic-Tac-Toe using the Minimax algorithm with alpha-beta pruning.
 
-![Tic-Tac-Toe Game](images/tictactoe_pic.png)
+![Tic-Tac-Toe Game](resources/tictactoe_pic.png)
 
 
 There are two main files in this project: `runner.py` and `tictactoe.py`. `tictactoe.py` contains all of the logic for playing the game, and for making optimal moves. `runner.py` contains all of the code to run the graphical interface for the game. 
